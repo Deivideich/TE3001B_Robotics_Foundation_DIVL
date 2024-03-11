@@ -1,0 +1,24 @@
+signal_generator:
+  ros_parameters:
+    signal_type: "square"
+      frequency: 2.0
+      amplitude: 5.0
+      offset: 2.0
+    signal_type: "sine"
+      frequency: 4.0
+      amplitude: 3.0
+      offset: 1.0
+    signal_type: "sawtooth"
+      frequency: 3.0
+      amplitude: 4.0
+      offset: 2.0
+    signal_type: "triangle"
+      frequency: 3.0
+      amplitude: 2.0
+      offset: 1.0
+    signal_type: "ssquare"
+      frequency: 5.0
+      amplitude: 2.0
+      offset: 4.5
+
+      
